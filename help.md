@@ -27,10 +27,10 @@ Choose the board size from `3x3` to `20x20`.
 - **Last Winner**: The player who won the last game will play first.
 - **Last Loser**: The player who lost the last game will play first.
 
-### `S` Rule Mode
+### S Rule Mode
 Choose how to play the letter `S`:
-  - **always allowed**: You can play the letter `S` at any time.
-  - **only matches**: You can only play the letter `S` when it creates an `O-S-O` sequence.
+  - **Always allowed**: You can play the letter `S` at any time.
+  - **Only matches**: You can only play the letter `S` when it creates an `O-S-O` sequence.
 
 ### Sound Effects
 Enable or disable sound effects.
