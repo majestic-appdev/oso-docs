@@ -21,6 +21,10 @@ Although we do not collect any data ourselves, **OSO** integrates with **Google 
 Google manages this data **independently**, and we do not store or have access to it. For more details on how Google collects and processes data, please review their Privacy Policy:  
 [Google Privacy Policy](https://policies.google.com/privacy)  
 
+- **Flame Engine**: OSO is built using **Flutter Flame Engine**, an open-source game engine for Flutter.  
+
+Flame Engine **does not collect, store, or share any personal data**. For more information about Flutter Flame, visit: [https://flame-engine.org](https://flame-engine.org)
+
 ## 4. Children's Privacy  
 Since **OSO** is designed for families, including children, we comply with:  
 - **Google Play Families Policy**  
